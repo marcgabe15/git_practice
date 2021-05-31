@@ -1,5 +1,7 @@
 # git_practice step 3 4
 
-# git_practice step 2
-
-hello
+hello world
+why me
+again
+another commit test2
+another commit 1 test2
